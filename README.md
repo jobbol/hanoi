@@ -1,6 +1,6 @@
-**Hanoi** is a [Towers of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) clone written in vanilla JS pre-ES5 with canvas. 
+**Hanoi** is a [Towers of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) clone written in vanilla JS pre-ES5 with vanilla canvas. 
 
-![Screenshot from the game showing the main menu.](/img/screenshots/screen5.PNG?raw=true)
+<img src="/screenshots/screen5.PNG?raw=true" width="400" alt="Screenshot from the game showing the main menu.">
 
 ### Setup and usage.
 No setup required.  Just open index.html to start the game.
