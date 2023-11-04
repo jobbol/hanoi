@@ -1,0 +1,24 @@
+/*** General ***/
+
+
+/*** Canvas ***/
+
+canvas{
+	display: block;
+	margin: 0 auto;
+	outline-width: 0px; /*Removes the outline when focused */
+	border: 1px solid grey;
+}
+
+
+.pixelated {
+  image-rendering:optimizeSpeed;             /* Legal fallback */
+  image-rendering:-moz-crisp-edges;          /* Firefox        */
+  image-rendering:-o-crisp-edges;            /* Opera          */
+  image-rendering:-webkit-optimize-contrast; /* Safari         */
+  image-rendering:optimize-contrast;         /* CSS3 Proposed  */
+  image-rendering:crisp-edges;               /* Proposed       */
+  image-rendering:pixelated;                 /* Proposed       */
+  -ms-interpolation-mode:nearest-neighbor;   /* IE8+           */
+}
+
